@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\koralis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\koralis\\.nuget\\packages"
+    ]
+  }
+}
