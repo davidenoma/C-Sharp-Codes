@@ -256,6 +256,10 @@ namespace ConsoleApp1
             }
 
             findNextSquare();
+
+            //Question 4
+            int[][] inputArray;
+
         }
 
     }
